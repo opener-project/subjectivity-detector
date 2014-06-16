@@ -11,11 +11,11 @@ Requirements:
 ##Installation##
 
 You will need to follow these basic steps:
-1) Clone in a path where python can find the library KafNafPaser (https://github.com/opener-project/KafNafParserPy)
-2) Clone in a path where python can find the library VUA_pylib (https://github.com/opener-project/VUA_pylib)
-3) Install SVMLigh following the instructions at http://svmlight.joachims.org/
-4) Clone this repository
-5) Modify the file `lib/path_finder.py` to point to the SVMLight executables in your local installation
+1. Clone in a path where python can find the library KafNafPaser (https://github.com/opener-project/KafNafParserPy)
+2. Clone in a path where python can find the library VUA_pylib (https://github.com/opener-project/VUA_pylib)
+3. Install SVMLigh following the instructions at http://svmlight.joachims.org/
+4. Clone this repository
+5. Modify the file `lib/path_finder.py` to point to the SVMLight executables in your local installation
 
 ##Training your own models##
 
